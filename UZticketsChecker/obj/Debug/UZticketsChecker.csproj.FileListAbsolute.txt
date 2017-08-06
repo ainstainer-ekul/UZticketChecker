@@ -1,0 +1,17 @@
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\UZticketsChecker.exe.config
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\UZticketsChecker.exe
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\UZticketsChecker.pdb
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\RestSharp.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\RestSharp.xml
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\obj\Debug\UZticketsChecker.csprojResolveAssemblyReference.cache
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\obj\Debug\UZticketsChecker.exe
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\obj\Debug\UZticketsChecker.pdb
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Newtonsoft.Json.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Twilio.dll
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Newtonsoft.Json.xml
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\gene\documents\visual studio 2015\Projects\UZticketsChecker\UZticketsChecker\bin\Debug\Twilio.xml
