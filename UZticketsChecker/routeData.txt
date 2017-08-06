@@ -1,0 +1,9 @@
+﻿station_id_from:2210700
+station_id_till:2204001
+station_from:Dnipro-Holovny
+station_till:Kharkiv
+date_dep:09.14.2017
+time_dep:00:00
+time_dep_till:
+another_ec:0
+search:
