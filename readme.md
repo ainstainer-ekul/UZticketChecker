@@ -1,1 +1,1 @@
-UZ ticket checker v. 2.0
+UZ ticket checker v. 3.0
